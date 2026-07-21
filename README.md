@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Características
-* *Operaciones Básicas:* Suma, resta, multiplicación y división implementadas de forma exacta.
+* *Operaciones Básicas:* Suma, resta, multiplicación, división y porcentaje implementadas de forma exacta.
 * *Interfaz Adaptable:* Diseño limpio y responsivo que se ajusta a pantallas de diversos tamaños de celular.
 * *Manejo de Errores:* Control de excepciones común, como evitar la división entre cero.
 
