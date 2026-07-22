@@ -11,7 +11,7 @@
 * Operaciones con Humor: A diferencia de una calculadora tradicional, incluye respuestas dinámicas y un toque humorístico al mostrar los resultados (¡ideal
  para hacer las matemáticas más divertidas!).
 
----<img width="280" alt="WhatsApp Image 2026-07-21 at 6 09 17 PM" src="https://github.com/user-attachments/assets/cc5ca367-ab36-4d45-8166-9523b7f80688" />
+<img width="280" alt="WhatsApp Image 2026-07-21 at 6 09 17 PM" src="https://github.com/user-attachments/assets/cc5ca367-ab36-4d45-8166-9523b7f80688" />
 
 ## 🛠️ Tecnologías y Herramientas Utilizadas
 * *Lenguaje:* [Kotlin](https://kotlinlang.org) (Nativo)
