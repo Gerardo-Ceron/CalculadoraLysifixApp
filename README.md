@@ -29,5 +29,4 @@
 ### 🛡️ Aviso de Propiedad Intelectual
 Este repositorio contiene código fuente de mi propiedad exclusiva y forma parte de mi portafolio personal de desarrollo. 
 
-* *No se otorga permiso* para copiar, reproducir, modificar, distribuir ni sublicenciar este código de forma pública o comercial.
 
